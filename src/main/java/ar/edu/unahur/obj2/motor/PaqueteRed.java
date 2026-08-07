@@ -11,6 +11,9 @@ public class PaqueteRed {
   private Integer Puerto;
   
   public PaqueteRed(Integer iPOrigen, Integer iPDestino, Integer puerto) {
+    if(puerto < 1 || puerto < 65535){
+      throw new BloqueoException("esta fuera del rango valido");
+    }
     IPOrigen = iPOrigen;
     IPDestino = iPDestino;
     Puerto = puerto;
