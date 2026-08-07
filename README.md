@@ -4,9 +4,9 @@ Un centro de datos requiere un nuevo motor de filtrado e inspección para su inf
 
 #### **⚙️ Datos necesarios y obligatorios a completar.**
 
-* **APELLIDO, NOMBRE**:  
-* **COMISIÓN**:  
-* **DNI**:
+* **APELLIDO, NOMBRE**:  Oshiro, Natalia  
+* **COMISIÓN**:  03
+* **DNI**: 35945782
 
 #### **📝 Consideraciones Iniciales y Criterio de Evaluación.**
 
